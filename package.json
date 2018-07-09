@@ -1,0 +1,22 @@
+{
+  "name": "osseus-module-wrapper",
+  "version": "0.0.1",
+  "description": "Osseus module wrapper",
+  "scripts": {
+    "build": "npm install",
+    "test": "standard"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colucom/osseus-module-wrapper.git"
+  },
+  "author": "LiorRabin",
+  "license": "MIT",
+  "dependencies": {
+    "osseus": "^1.2.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
