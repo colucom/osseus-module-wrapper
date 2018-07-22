@@ -1,6 +1,6 @@
 {
   "name": "osseus-module-wrapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Osseus module wrapper",
   "scripts": {
     "build": "npm install",
