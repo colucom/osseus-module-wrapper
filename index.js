@@ -4,6 +4,9 @@ const init = async (modules, callback) => {
   try {
     const osseus = await Osseus.init()
     const errors = []
+    if (!modules || modules.length === 0) {
+      callback(new Error(`no modules specified for wrapper`))
+    }
     modules.forEach(module => {
       if (!osseus[module]) {
         errors.push(`"${module}" was not initialized, check configurations - https://github.com/colucom/osseus-${module}/blob/master/README.md`)
