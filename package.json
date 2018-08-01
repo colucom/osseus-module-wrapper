@@ -14,7 +14,7 @@
   "author": "LiorRabin",
   "license": "MIT",
   "dependencies": {
-    "osseus": "^1.4.7"
+    "osseus": "^1.4.9"
   },
   "devDependencies": {
     "standard": "^11.0.1"
