@@ -24,6 +24,8 @@ For each module you want to use see relevant **Usage** section
 * [osseus-server](https://github.com/colucom/osseus-server#usage)
 * [osseus-wallet](https://github.com/colucom/osseus-wallet#usage)
 
+***In order to use any one of those modules you should install it on your app***
+
 #### Example
 
 Let's say we want to use `osseus-logger` and `osseus-server` in our small project.
