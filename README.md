@@ -77,5 +77,8 @@ Will result in:
 
 And, sending GET request `localhost:8888/hello` will result in the response: `world`
 
+## Contributing
+Please see [contributing guidelines](https://github.com/colucom/osseus-module-wrapper/blob/master/.github/CONTRIBUTING.md).
+
 ## License
 Code released under the [MIT License](https://github.com/colucom/osseus-module-wrapper/blob/master/LICENSE).
