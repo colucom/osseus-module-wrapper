@@ -1,4 +1,4 @@
-const Osseus = require('osseus')
+const Osseus = require('@colucom/osseus')
 
 const init = async (modules, callback) => {
   try {

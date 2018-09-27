@@ -6,7 +6,7 @@ Wrapper for [osseus](https://github.com/colucom/osseus) modules to be used witho
 
 ## Install
 ```bash
-$ npm install osseus-module-wrapper
+$ npm install @colucom/osseus-module-wrapper
 ```
 
 ## Usage
@@ -18,8 +18,6 @@ For each module you want to use see relevant **Usage** section
 * [osseus-config](https://github.com/colucom/osseus-config#usage)
 * [osseus-logger](https://github.com/colucom/osseus-logger#usage)
 * [osseus-mongo](https://github.com/colucom/osseus-mongo#usage)
-* [osseus-mq](https://github.com/colucom/osseus-mq#usage)
-* [osseus-queue](https://github.com/colucom/osseus-queue#usage)
 * [osseus-router](https://github.com/colucom/osseus-router#usage)
 * [osseus-server](https://github.com/colucom/osseus-server#usage)
 * [osseus-wallet](https://github.com/colucom/osseus-wallet#usage)

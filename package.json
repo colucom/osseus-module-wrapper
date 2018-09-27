@@ -1,6 +1,6 @@
 {
-  "name": "osseus-module-wrapper",
-  "version": "0.1.1",
+  "name": "@colucom/osseus-module-wrapper",
+  "version": "0.2.0",
   "description": "Osseus module wrapper",
   "scripts": {
     "build": "npm install",
@@ -14,7 +14,7 @@
   "author": "LiorRabin",
   "license": "MIT",
   "dependencies": {
-    "osseus": "^2.0.0"
+    "@colucom/osseus": "^2.1.0"
   },
   "devDependencies": {
     "standard": "^11.0.1"
