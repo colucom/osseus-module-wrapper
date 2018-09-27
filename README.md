@@ -6,7 +6,7 @@ Wrapper for [osseus](https://github.com/colucom/osseus) modules to be used witho
 
 ## Install
 ```bash
-$ npm install osseus-module-wrapper
+$ npm install @colucom/osseus-module-wrapper
 ```
 
 ## Usage
